@@ -1,0 +1,6 @@
+.venv/
+cv/
+tokenizers/
+pyproject.toml
+.python-version
+uv.lock
