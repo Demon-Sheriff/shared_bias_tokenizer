@@ -41,3 +41,7 @@ training run for the universal tokenizer finetune :
 ![alt text](<Screenshot 2025-08-23 202043.png>)
 
 ![alt text](./assets/loss_curve_best_fine_tune_run.png)
+
+![alt text](./assets/Screenshot%202025-08-23%20202043.png)
+
+![alt text](./assets/Screenshot%202025-08-23%20124820.png)
