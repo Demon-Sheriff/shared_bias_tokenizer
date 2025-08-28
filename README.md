@@ -45,3 +45,5 @@ training run for the universal tokenizer finetune :
 ![alt text](./assets/Screenshot%202025-08-23%20202043.png)
 
 ![alt text](./assets/Screenshot%202025-08-23%20124820.png)
+
+![alt text](./assets/Screenshot%202025-08-23%20200609.png)
