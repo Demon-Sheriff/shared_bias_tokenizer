@@ -1,7 +1,6 @@
 
 cohere extension experiment to the paper : One Tokenizer to Rule Them All
 
-<<<<<<< HEAD
 training run for the universal tokenizer finetune : 
 
 <img width="1796" height="857" alt="image" src="https://github.com/user-attachments/assets/97ceb2bf-4086-4fb8-843e-f349541f253b" />
@@ -38,6 +37,4 @@ training run for the universal tokenizer finetune :
 
 <img width="1074" height="623" alt="image" src="https://github.com/user-attachments/assets/0a76d1b5-e133-4a22-b733-5d1fd31afc37" />
 
-=======
-![alt text](image.png)
->>>>>>> 5746b12 (adding documenation stuff)
+
