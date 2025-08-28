@@ -38,3 +38,6 @@ training run for the universal tokenizer finetune :
 <img width="1074" height="623" alt="image" src="https://github.com/user-attachments/assets/0a76d1b5-e133-4a22-b733-5d1fd31afc37" />
 
 
+![alt text](<Screenshot 2025-08-23 202043.png>)
+
+![alt text](./assets/loss_curve_best_fine_tune_run.png)
